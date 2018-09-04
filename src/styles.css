@@ -29,3 +29,7 @@ header ul li a {
 footer {
   text-align: center;
 }
+
+main {
+  margin: 20px;
+}
